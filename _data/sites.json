@@ -3663,6 +3663,17 @@
         "domains": ["cdkeys.com"]
     },
     {
+        "name": "CDiscount",
+        "url": "https://clients.cdiscount.com/account/customer/accountparameters.html?tab=parameter",
+        "difficulty": "medium",
+        "notes": "Go to \"deletion rights\", then give an e-mail AND phone number, and finally submit your request using the button in the bottom-right corner.",
+        "notes_fr": "Allez dans « Droit de suppression », puis renseignez une adresse e-mail ET un numéro de téléphone, puis enfin envoyez votre demande avec le bouton en bas à droite."
+        "domains": [
+            "cdiscount.com",
+            "cdiscount.fr"
+        ]
+    },
+    {
         "name": "CDON.COM",
         "url": "https://help.cdon.com/hc/sv/articles/360022459751-Hur-tar-jag-bort-mitt-konto-",
         "difficulty": "hard",
